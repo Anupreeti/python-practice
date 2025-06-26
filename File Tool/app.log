@@ -1,0 +1,47 @@
+2025-06-26 19:57:52,688-INFO-(message)s
+2025-06-26 19:57:52,689-INFO-(message)s
+2025-06-26 19:57:52,689-INFO-(message)s
+2025-06-26 19:57:52,690-INFO-(message)s
+2025-06-26 19:57:52,691-ERROR-(message)s
+Traceback (most recent call last):
+  File "C:\Users\HP\Desktop\Preeti\Python-1\Training\File Tool\file_tool.py", line 17, in create_folder
+    os.rename(f"{folder}/notes.txt", f"{folder}/logs.txt")
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'test/notes.txt' -> 'test/logs.txt'
+2025-06-26 20:00:22,449-INFO-(message)s
+2025-06-26 20:00:22,450-INFO-(message)s
+2025-06-26 20:00:22,450-INFO-(message)s
+2025-06-26 20:00:22,451-INFO-(message)s
+2025-06-26 20:00:22,453-ERROR-(message)s
+Traceback (most recent call last):
+  File "C:\Users\HP\Desktop\Preeti\Python-1\Training\File Tool\file_tool.py", line 17, in create_folder
+    os.rename(f"{folder}/notes.txt", f"{folder}/logs.txt")
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'test/notes.txt' -> 'test/logs.txt'
+2025-06-26 20:01:42,281-INFO-(message)s
+2025-06-26 20:01:42,283-INFO-(message)s
+2025-06-26 20:01:42,284-INFO-(message)s
+2025-06-26 20:01:42,284-INFO-(message)s
+2025-06-26 20:01:42,285-ERROR-(message)s
+Traceback (most recent call last):
+  File "C:\Users\HP\Desktop\Preeti\Python-1\Training\File Tool\file_tool.py", line 17, in create_folder
+    os.rename(f"{folder}/notes.txt", f"{folder}/logs.txt")
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'test/notes.txt' -> 'test/logs.txt'
+2025-06-26 20:03:05,188-INFO-Folder deleted : test
+2025-06-26 20:03:15,911-INFO-Folder created
+2025-06-26 20:03:15,911-INFO-file Created main.py
+2025-06-26 20:03:15,912-INFO-file Created README.md
+2025-06-26 20:03:15,912-INFO-file Created notes.txt
+2025-06-26 20:03:15,913-INFO-notes.txt File is renamed to logs.txt
+2025-06-26 20:04:36,802-INFO-Folder created
+2025-06-26 20:04:36,802-INFO-file Created main.py
+2025-06-26 20:04:36,803-INFO-file Created README.md
+2025-06-26 20:04:36,804-INFO-file Created notes.txt
+2025-06-26 20:04:36,806-ERROR-[WinError 183] Cannot create a file when that file already exists: 'test/notes.txt' -> 'test/logs.txt'
+Traceback (most recent call last):
+  File "C:\Users\HP\Desktop\Preeti\Python-1\Training\File Tool\file_tool.py", line 17, in create_folder
+    os.rename(f"{folder}/notes.txt", f"{folder}/logs.txt")
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'test/notes.txt' -> 'test/logs.txt'
+2025-06-26 20:04:47,771-INFO-Folder deleted : test
